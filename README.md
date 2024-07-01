@@ -1,7 +1,7 @@
 
 ![I am GitHub Readme Generator's creator](https://res.cloudinary.com/dbjkwdcmx/image/upload/v1719866517/Aspergus%20Resort/halrljl4dcgv407qgnet.png)
 <a href="https://www.linkedin.com/in/abtahee-taseen/">
-<img src="https://res.cloudinary.com/dbjkwdcmx/image/upload/v1719866517/Aspergus%20Resort/halrljl4dcgv407qgnet.png" />
+<img width="50" src="https://res.cloudinary.com/dbjkwdcmx/image/upload/v1719866517/Aspergus%20Resort/halrljl4dcgv407qgnet.png" />
 </a>
 
 
