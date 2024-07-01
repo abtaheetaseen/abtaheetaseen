@@ -1,4 +1,6 @@
-# About Me:
+(https://res.cloudinary.com/dbjkwdcmx/image/upload/v1719866517/Aspergus%20Resort/halrljl4dcgv407qgnet.png)
+
+# About Me
 As a react developer, I am well-versed in numerous computing scripts and libraries, including JavaScript, React, HTML, CSS, and Tailwind CSS. Additionally, I am conversant with server-side scripts like Rest API, MongoDB, Node.js, and Express.js. My GitHub account and projects demonstrate my coding skills.
 
 
@@ -14,7 +16,7 @@ As a react developer, I am well-versed in numerous computing scripts and librari
 
 
 
-# GitHub Stats:
+# GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abtaheetaseen&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abtaheetaseen&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
