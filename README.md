@@ -1,3 +1,6 @@
+# About Me:
+As a front-end developer, I am well-versed in numerous computing scripts and libraries, including JavaScript, React, HTML, CSS, and Tailwind CSS. Additionally, I am conversant with server-side scripts like Rest API, MongoDB, Node.js, and Express.js. My GitHub account and projects demonstrate my coding skills.
+
 
 # Skills
 <h4 align="left">Frontend:</h4>
