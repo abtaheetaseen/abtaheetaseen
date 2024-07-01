@@ -18,7 +18,4 @@ As a react developer, I am well-versed in numerous computing scripts and librari
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abtaheetaseen&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abtaheetaseen&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=abtaheetaseen&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
